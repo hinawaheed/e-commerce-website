@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315410856661",
+    "firebase_url": "https://social-networking-90ccb.firebaseio.com",
+    "project_id": "social-networking-90ccb",
+    "storage_bucket": "social-networking-90ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315410856661:android:0d70cef66a7b0bc745005c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315410856661-d118lv02eqg74ghqmtqk7chohhhgphrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANifDP47zXrtDj6v5FgcSCBA3OvXoWJMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315410856661-d118lv02eqg74ghqmtqk7chohhhgphrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
